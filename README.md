@@ -1,4 +1,4 @@
-# 북적북적 (BookjuckBookjuck)
+# 똑똑 스캔들 (smart_scandal)
 
 **경소고 해커톤 프로젝트 (대상)**  
 

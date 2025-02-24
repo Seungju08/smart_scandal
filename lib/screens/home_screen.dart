@@ -109,7 +109,7 @@ class HomeScreen extends StatelessWidget {
                             ),
                             SizedBox(height: 5),
                             Text(
-                              '20070518원',
+                              '123',
                               style: TextStyle(
                                 color: Colors.blue.shade600,
                                 fontSize: 18,
